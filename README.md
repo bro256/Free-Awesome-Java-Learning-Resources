@@ -10,6 +10,7 @@ A list of free Java learning resources for beginners and experienced developers.
 4. [Books](#books)
 5. [Interactive Platforms and Practice Coding](#interactive-platforms-and-practice-coding)
 6. [Community and Blogs](#community-and-blogs)
+7. [Video Tutorials](#video-tutorials)
 
 ---
 
@@ -46,6 +47,10 @@ A list of free Java learning resources for beginners and experienced developers.
 - [Baeldung](https://www.baeldung.com/): Java tutorials, articles, and tips.
 - [Java Code Geeks](https://www.javacodegeeks.com/): Java tutorials and articles.
 - [DZone Java Zone](https://dzone.com/java-jdk-development-tutorials-tools-news): Java-related news and tutorials.
+
+## Video Tutorials
+- [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34): Java tutorial for beginners - Learn Java, the language behind millions of apps and websites.
+- [Java Brains (YouTube)](https://www.youtube.com/@Java.Brains/playlists): In-depth Java tutorials and concepts.
 
 ---
 
