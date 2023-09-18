@@ -1,4 +1,4 @@
-# Awesome Java Learning Resources
+# Free Awesome Java Learning Resources
 
 A list of free Java learning resources for beginners and experienced developers. Whether you're just starting with Java or looking to enhance your Java skills, these resources cover a wide range of topics to help you become a better Java programmer.
 
@@ -8,10 +8,8 @@ A list of free Java learning resources for beginners and experienced developers.
 2. [Tutorials](#tutorials)
 3. [Online Courses](#online-courses)
 4. [Books](#books)
-5. [Interactive Platforms](#interactive-platforms)
-6. [Practice Coding](#practice-coding)
-7. [Communities](#communities)
-8. [Blogs](#blogs)
+5. [Interactive Platforms and Practice Coding](#interactive-platforms-and-practice-coding)
+6. [Community and Blogs](#community-and-blogs)
 
 ---
 
@@ -34,23 +32,17 @@ A list of free Java learning resources for beginners and experienced developers.
 
 - [Java Programming for Beginners](https://books.trinket.io/thinkjava/): "Think Java" book by Allen B. Downey and Chris Mayfield.
 
-## Interactive Platforms
+## Interactive Platforms and Practice Coding
 
 - [HackerRank](https://www.hackerrank.com/domains/java): Java tutorials and coding challenges.
-
-## Practice Coding
-
 - [CodingBat](https://codingbat.com/java): Java coding exercises for practice.
 - [Codecademy](https://www.codecademy.com/learn/learn-java): Learn Java interactively through coding exercises.
 
-## Communities
+## Community and Blogs
 
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/java): A Q&A platform for Java developers.
 - [Reddit - r/java](https://www.reddit.com/r/java/): A Java subreddit for discussions and questions.
 - [Java Ranch](https://coderanch.com/c/java): A friendly community for Java programmers.
-
-## Blogs
-
 - [Baeldung](https://www.baeldung.com/): Java tutorials, articles, and tips.
 - [Java Code Geeks](https://www.javacodegeeks.com/): Java tutorials and articles.
 - [DZone Java Zone](https://dzone.com/java-jdk-development-tutorials-tools-news): Java-related news and tutorials.
