@@ -50,7 +50,6 @@ A list of free Java learning resources for beginners and experienced developers.
 
 ## Video Tutorials
 - [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34): Java tutorial for beginners - Learn Java, the language behind millions of apps and websites.
-- [Java Brains (YouTube)](https://www.youtube.com/@Java.Brains/playlists): In-depth Java tutorials and concepts.
 
 ---
 
