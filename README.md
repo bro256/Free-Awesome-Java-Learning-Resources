@@ -20,10 +20,10 @@ A list of free Java learning resources for beginners and experienced developers.
 
 ## Tutorials
 
-- [Java Tutorial](https://www.w3schools.com/java/default.asp): Well organized and easy to understand Java tutorials with lots of examples of how to use Java.
-- [Java Tutorial for Beginners](https://www.javatpoint.com/java-tutorial): A comprehensive tutorial for beginners by Javatpoint.
-- [Java Programming and Software Engineering Fundamentals](https://java-programming.mooc.fi/): An interactive MOOC course by the University of Helsinki.
-- [Java Beginners Tutorial](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/): Tutorials with examples for Java beginners.
+- [W3Schools](https://www.w3schools.com/java/default.asp): Well organized and easy to understand Java tutorials with lots of examples of how to use Java.
+- [Javatpoint](https://www.javatpoint.com/java-tutorial): A comprehensive tutorial for beginners by Javatpoint.
+- [MOOC](https://java-programming.mooc.fi/): An interactive MOOC course by the University of Helsinki.
+- [Coursera](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/): Tutorials with examples for Java beginners.
 
 ## Online Courses
 
