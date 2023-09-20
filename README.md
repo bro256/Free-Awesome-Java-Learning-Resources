@@ -24,6 +24,7 @@ A list of free Java learning resources for beginners and experienced developers.
 - [Javatpoint](https://www.javatpoint.com/java-tutorial): A comprehensive tutorial for beginners by Javatpoint.
 - [MOOC](https://java-programming.mooc.fi/): An interactive MOOC course by the University of Helsinki.
 - [Coursera](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/): Tutorials with examples for Java beginners.
+- [Scaler](https://www.scaler.com/topics/java/): This tutorial will mainly revolve around the features and fundamental Java programming concepts.
 
 ## Online Courses
 
