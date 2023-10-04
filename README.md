@@ -25,6 +25,7 @@ A list of free Java learning resources for beginners and experienced developers.
 - [MOOC](https://java-programming.mooc.fi/): An interactive MOOC course by the University of Helsinki.
 - [Coursera](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/): Tutorials with examples for Java beginners.
 - [Scaler](https://www.scaler.com/topics/java/): This tutorial will mainly revolve around the features and fundamental Java programming concepts.
+- [GeeksforGeeks](https://www.geeksforgeeks.org/java/): A computer science portal for geeks. Includes Java tutorials (basic, advanced, Spring, Spring Boot, Spring MVC, Hibernate), programs, interview questions, etc.
 
 ## Online Courses
 
@@ -59,17 +60,4 @@ Feel free to contribute to this list by opening a pull request. Happy learning!
 
 ## Disclaimer
 
-This repository contains a curated list of free Java learning resources. These resources are publicly available on the internet, and I have provided links for your convenience. However, I want to emphasize the following:
-
-- I am not the author or creator of these resources.
-- I do not own or control the content of these external websites.
-- I cannot guarantee the accuracy, completeness, or availability of these resources.
-- Please review the terms and conditions, copyright, and licensing agreements of each resource before using them.
-- Any issues or concerns related to the content of these resources should be directed to the respective content creators or owners.
-
-By using the links provided in this repository, you agree to the terms and conditions set by the external websites. I am not responsible for any legal issues, content changes, or disputes related to the linked resources.
-
-Please use these resources responsibly and in accordance with the terms specified by the original creators or owners.
-
-**Note:** Always respect copyright and licensing laws when accessing and using online content. If you have questions or concerns about the legality of specific resources, seek legal advice or guidance from the respective content providers.
-
+This repository contains a curated list of free Java learning resources. These resources are publicly available on the internet, and I have provided links for your convenience.
