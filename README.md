@@ -44,10 +44,10 @@ A list of free Java learning resources for beginners and experienced developers.
 
 ## Community and Blogs
 
+- [Baeldung](https://www.baeldung.com/): Java tutorials, articles, and tips.
 - [Stack Overflow](https://stackoverflow.com/questions/tagged/java): A Q&A platform for Java developers.
 - [Reddit - r/java](https://www.reddit.com/r/java/): A Java subreddit for discussions and questions.
 - [Java Ranch](https://coderanch.com/c/java): A friendly community for Java programmers.
-- [Baeldung](https://www.baeldung.com/): Java tutorials, articles, and tips.
 - [Java Code Geeks](https://www.javacodegeeks.com/): Java tutorials and articles.
 - [DZone Java Zone](https://dzone.com/java-jdk-development-tutorials-tools-news): Java-related news and tutorials.
 
