@@ -18,6 +18,7 @@ A list of free Java learning resources for beginners and experienced developers.
 
 - [Java Documentation](https://docs.oracle.com/en/java/): Official documentation from Oracle, covering Java SE.
 - [Spring](https://docs.spring.io/spring-framework/reference/index.html) Spring Framework Documentation.
+- [Spring Boot](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/) Spring Boot Reference Documentation.
 
 ## Tutorials
 
