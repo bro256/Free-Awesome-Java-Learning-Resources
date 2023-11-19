@@ -54,7 +54,7 @@ A list of free Java learning resources for beginners and experienced developers.
 - [DZone Java Zone](https://dzone.com/java-jdk-development-tutorials-tools-news): Java-related news and tutorials.
 
 ## Video Tutorials
-- [Coding with John](https://www.youtube.com/@CodingWithJohn) https://www.youtube.com/@CodingWithJohn.
+- [Coding with John](https://www.youtube.com/@CodingWithJohn) Coding with John.
 - [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34): Java tutorial for beginners - Learn Java, the language behind millions of apps and websites.
 
 ---
