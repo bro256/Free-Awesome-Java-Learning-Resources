@@ -11,6 +11,7 @@ A list of free Java learning resources for beginners and experienced developers.
 5. [Interactive Platforms and Practice Coding](#interactive-platforms-and-practice-coding)
 6. [Community and Blogs](#community-and-blogs)
 7. [Video Tutorials](#video-tutorials)
+8. [IDEs](#IDEs)
 
 ---
 
@@ -53,8 +54,14 @@ A list of free Java learning resources for beginners and experienced developers.
 - [DZone Java Zone](https://dzone.com/java-jdk-development-tutorials-tools-news): Java-related news and tutorials.
 
 ## Video Tutorials
+
 - [Coding with John](https://www.youtube.com/@CodingWithJohn) Coding with John.
 - [Java Tutorial for Beginners](https://www.youtube.com/watch?v=eIrMbAQSU34): Java tutorial for beginners - Learn Java, the language behind millions of apps and websites.
+
+## IDEs
+
+- [IntelliJ IDEA](https://www.jetbrains.com/idea): A powerful and feature-rich Java IDE by JetBrains.
+- [Eclipse](https://www.eclipse.org/ide): A popular open-source IDE for Java development.
 
 ---
 
