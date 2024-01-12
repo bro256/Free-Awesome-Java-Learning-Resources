@@ -28,7 +28,6 @@ A list of free Java learning resources for beginners and experienced developers.
 - [BeginersBook](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/): Learn Java Programming for free with detailed in depth guides covered with diagrams and examples.
 - [Scaler](https://www.scaler.com/topics/java/): This tutorial will mainly revolve around the features and fundamental Java programming concepts.
 - [GeeksforGeeks](https://www.geeksforgeeks.org/java/): A computer science portal for geeks. Includes Java tutorials (basic, advanced, Spring, Spring Boot, Spring MVC, Hibernate), programs, interview questions, etc.
-- [BeginnersBook](https://beginnersbook.com/java-tutorial-for-beginners-with-examples/): Java tutorials tor beginners.
 
 ## Online Courses
 
